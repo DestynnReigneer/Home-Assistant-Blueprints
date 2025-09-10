@@ -14,7 +14,7 @@ In Home Assistant, go to Settings > Automations & Scenes.
 Navigate to the Blueprints tab.
 Click the "Import Blueprint" button at the bottom right.
 Paste the URL of your blueprint's raw file into the text box and click "PREVIEW BLUEPRINT," then "IMPORT BLUEPRINT."
-Your blueprint URL is: https://gist.githubusercontent.com/DestynnReigneer/81fd6c3ca1993f5068678c56fc5c0671/raw/open_alert_customizable.yaml
+Blueprint URL is: https://gist.githubusercontent.com/DestynnReigneer/81fd6c3ca1993f5068678c56fc5c0671/raw/55eeeb13e74f02ebe1d6641ecce9c543f4467b6e/open_alert_customizable.yaml
 
 Step 2: Create a New Automation
 Once the blueprint is imported, a new automation will appear on the Automations tab. Click "CREATE AUTOMATION."
